@@ -1,4 +1,4 @@
-### Hey. Diogo here 
+### Hey! Diogo here 
 
 - 🔭 Currently, I am working on back-end projects
 - 🌱 I’m learning Java, Python, MySQL and Spring Boot
