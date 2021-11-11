@@ -1,7 +1,7 @@
 ### Hey! Diogo here 
 
 - 🔭 Currently, I am working on back-end projects
-- 🌱 I’m learning Java, Python, MySQL and Spring Boot
+- 🌱 I’m learning Java, Python, MySQL, Spring Boot, HTML, CSS and Javascript
 - 💬 Languages: English Teacher ✅ and French is Loading...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Tibia Player here
