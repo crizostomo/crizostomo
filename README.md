@@ -2,7 +2,8 @@
 
 - 🔭 Currently, I am working on back-end projects
 - 🌱 Focusing on: Java, Python, MySQL/NoSQL, SpringBoot, HTML, CSS3 and Javascript
-- 💬 English Teacher ✅ and French is Loading...
+- English Teacher ✅ 
+- Français B1-B2 🇫🇷🇺🇸
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Tibia Player here
 
