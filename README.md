@@ -1,6 +1,6 @@
 ### Hey! Diogo here 
 
-- 🔭 Currently, I am working on back-end projects
+- 🔭 Engineer Software Developer
 - 🌱 Focusing on: Java, Python, MySQL/NoSQL, SpringBoot, HTML, CSS3 and Javascript
 - English Teacher ✅ 
 - Français B1-B2
